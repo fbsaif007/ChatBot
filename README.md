@@ -1,2 +1,2 @@
-# ChatBot
-This project highlights proficiency in Python programming, NLP, OCR, document processing, and data visualization, demonstrating the ability to streamline financial document analysis and enhance data-driven decision-making processes.
+# Financial Document Analysis and Question Answering System
+Implemented a comprehensive system for analyzing financial documents using Python, OCR, and NLP techniques. Extracted text from PDFs, preprocessed data by removing noise and stopwords, and employed a retrieval-based question answering (QA) system using transformers and FAISS. Developed visualizations such as word clouds and word frequency plots to provide insights into financial data.
